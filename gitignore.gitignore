@@ -1,5 +1,0 @@
-# Ignorar el archivo passwords.txt
-passwords.txt
-
-# Ignorar los archivos .bak
-*.bak
